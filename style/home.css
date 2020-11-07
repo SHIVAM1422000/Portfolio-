@@ -1,0 +1,185 @@
+/* /* #mainImg{
+height:100%;
+background-repeat: no-repeat;
+background-position: centre;
+background-size: cover;
+
+} *
+/ */
+
+
+#homePage{
+/* height:100px */
+/* margin-top: 0%; */
+    background-image: url("https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100%;
+    position: relative;
+    margin-top: 0;
+}
+
+
+#txtt{
+   position: absolute;
+   margin-top:180;
+   margin-left: 100px;
+}
+
+#aboutRow{
+    height:100%;
+    padding:50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* background-color: black; */
+}
+
+/* //section2 */
+
+#section2{
+    margin-top: 5%;
+    height:fit-content;
+}
+
+#sec2_oneThird{
+margin-bottom: 20px;
+padding-top: 5%;
+padding-bottom: 2%;
+background-color: black;
+}
+
+#sec2_oneThird_text{
+color: Cyan;
+position: relative;
+margin-left: 40%;
+/* margin-bottom: 2px; */
+
+/* align-items: center; */
+}
+
+#twoThird{
+    background-color: whitesmoke;
+    height:70%
+    padding:2px;
+    }
+
+    #textAboutMe{
+        margin-top:80px;
+        margin-left: 40%;
+        text-align: center;
+        color: green;
+    }
+
+#me{
+   height: 70%;
+   /* margin-left:100%; */
+    /* align-items: center; */
+  
+}
+
+
+
+/* #contactRow{
+    background-color: black;
+    
+} */
+
+
+/* Section 3 */
+
+#section3{
+    padding: 20%;
+    margin-top: 5%;
+    height:fit-content;
+}
+
+#myWorks{
+    /* padding:200px; */
+
+    text-align:center;
+    margin-bottom: 1%;
+    /* color: red; */
+    /* text-shadow:grey; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#s3_footer{
+
+    /* height: 95%; */
+background-color: whitesmoke;
+    /* background-image: url("https://images.unsplash.com/photo-1528459458967-d78e2fd34a9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    /* padding: 100px; */
+}
+
+
+
+
+.work{
+    height:180px;
+    width:300px;
+    border:3px solid black;
+    padding:2px;
+    border-radius:2rem;
+    margin-top: 20%;
+}
+
+#s3_middle_md{
+    background-color: black;
+}
+
+#s3_bottom{
+    height:2%;
+    background-color: black;
+}
+
+/* #gmail{
+    height:2px;
+} */
+
+#myWorksBox{
+margin-left: 40%;
+margin-top: 2%;
+margin-bottom: 3%;
+
+}
+
+#myWorksImages{
+padding-left: 5%;
+}
+
+#myWorksText{
+    color: black;
+margin-left: 30px;
+
+}
+
+
+/* #section4{
+    padding-left: 2px;
+} */
+
+
+#contactRow3{
+    background-color: black;
+}
+
+
+
+/* //foreignObject
+ */
+
+#ca{
+    font-family: 'Niconne', cursive;
+    font-size: 4rem;
+    font-style: italic;
+    
+    font-weight: 6rem;
+    color:#00cc99;
+}
+ /* Lucida Handwriting */
