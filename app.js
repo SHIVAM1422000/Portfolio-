@@ -6,7 +6,4 @@ app.get("/",function(req,res){
     res.render("home.ejs");
 })
 
-app.listen(process.env.port process.env.ip function(){
-console.log("APP Started");
-})
-
+app.listen(process.env.PORT,process.env.IP);
